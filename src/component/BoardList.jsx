@@ -99,7 +99,7 @@ const BoardList = () => {
 
     return (
         <>
-            <h3>게시판 페이지2</h3>
+            <h3>게시판 페이지3</h3>
 
             {/* 검색 폼 */}
             <div style={{ marginBottom: "20px" }}>

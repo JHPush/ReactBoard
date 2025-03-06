@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: react-board-container
-        image: hjpush/reactboard:v2
+        image: hjpush/react-board:271d0013bac05cfdcb3f5b33d33c6d805b004ccb
         ports:
         - containerPort: 80
